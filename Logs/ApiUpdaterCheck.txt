@@ -1,0 +1,50 @@
+[api-updater (non-obsolete-error-filter)] 11/17/2022 2:13:00 PM : Starting D:/2020.3.26f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 852.1926ms
+moved types parse time: 70ms
+candidates parse time : 27ms
+C# parse time         : 357ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/19/2022 12:24:29 AM : Starting D:/2020.3.26f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 784.2249ms
+moved types parse time: 71ms
+candidates parse time : 23ms
+C# parse time         : 357ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/19/2022 1:04:59 AM : Starting D:/2020.3.26f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 464.0496ms
+moved types parse time: 71ms
+candidates parse time : 13ms
+C# parse time         : 247ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/19/2022 1:05:45 AM : Starting D:/2020.3.26f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 114.5884ms
+moved types parse time: 73ms
+candidates parse time : 13ms
+C# parse time         : 215ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/19/2022 1:43:56 AM : Starting D:/2020.3.26f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 443.2583ms
+moved types parse time: 70ms
+candidates parse time : 14ms
+C# parse time         : 246ms
+candidates check time : 57ms
+console write time    : 0ms
+
